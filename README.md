@@ -1,7 +1,6 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="ghub banner.png">
- <source media="(prefers-color-scheme: light)" srcset="ghub banner light.png">
- <img alt="my banner" src="ghub banner light.png">
+ <source srcset="fej.png">
+ <img alt="my banner" src="fej.png">
 </picture>
 
 ## Hi, I’m Fjyetto
