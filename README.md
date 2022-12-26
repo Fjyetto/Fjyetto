@@ -4,7 +4,7 @@
  <img alt="my banner" src="ghub banner light.png">
 </picture>
 
-## Hi, I’m @Papatomique
+## Hi, I’m @Fjyetto
 - I’m interested in destroying the universe. (:trollface:)
 - I’m currently learning atom bombs. (:trollface:)
 - I’m looking to collaborate on extinction of the human race. (:trollface:)
