@@ -12,8 +12,8 @@
 - [x] program
 - [ ] not program
 ## Current projects (ordered by priority):
-1. Big Gunchus Roleplay (on roblox)
+1. personal website
 2. 3JS "office" engine
-3. Big Gunchus Website
-4. personal website
-5. LFNF (on roblox)
+3. LFNF (on roblox)
+4. Big Gunchus Roleplay (on roblox)
+5. Big Gunchus Website
