@@ -12,8 +12,10 @@
 - [x] program
 - [ ] not program
 ## Current projects (ordered by priority):
-1. personal website
-2. 3JS "office" engine
-3. LFNF (on roblox)
-4. Big Gunchus Roleplay (on roblox)
-5. Big Gunchus Website
+1. Fjyetto OS
+2. My Garry's Mod map
+3. personal website
+4. Big Gunchus Website
+5. 3JS "office" engine
+6. Big Gunchus Roleplay (on roblox)
+7. LFNF (on roblox)
