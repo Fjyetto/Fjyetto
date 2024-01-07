@@ -6,7 +6,7 @@
 ## Hi, I’m Fjyetto
 - I’m interested in making games.
 - I’m currently learning three.js.
-- I’m (:trollface:)
+- I’m :trollface:
 - How to reach me : babdomig@gmail.com 
 ## things i do
 - [x] program
