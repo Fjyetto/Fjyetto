@@ -12,10 +12,12 @@
 - [x] program
 - [ ] not program
 ## Current projects (ordered by priority):
-1. Fjyetto OS
-2. My Garry's Mod map
-3. personal website
+1. Big Gunchus Roleplay (on roblox)
+2. Funyun delivery
+3. Yakuza0C - Numworks demake
 4. Big Gunchus Website
-5. 3JS "office" engine
-6. Big Gunchus Roleplay (on roblox)
+5. personal website
+6. 3JS "office" engine
 7. LFNF (on roblox)
+8. Fjyetto OS
+9. My Garry's Mod map
