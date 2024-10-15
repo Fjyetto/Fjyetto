@@ -1,6 +1,6 @@
 <picture>
- <source srcset="fej.png">
- <img alt="my banner" src="fej.png">
+ <source srcset="githubpicture.png">
+ <img alt="my banner" src="githubpicture.png">
 </picture>
 
 ## hi
