@@ -30,10 +30,10 @@ for y=1,3 do
 	end
 	local p,t = turtle.inspectDown()
 	if p then
-		if t.name = "minecraft:lava" then
+		if t.name == "minecraft:lava" then
 			error("I don't wanna die!")
 		end
 	end
 	turtle.down();
-	turtle.turnRight();
+	turtle.turnLeft();
 end
