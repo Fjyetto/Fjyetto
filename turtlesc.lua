@@ -4,7 +4,7 @@ for z=1,16 do
 	for x=1,14 do
 		while turtle.detect() do
 			turtle.dig()
-			os.sleep(0.1)
+			os.sleep(0.3)
 		end
 		local l,r = turtle.forward()
 		if not l and r=="Out of fuel" then
