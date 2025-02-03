@@ -1,11 +1,11 @@
-local width = 6
-local depth = 16
+local width = 12
+local depth = 52+24
 
 local side = false
 local sfun = {[true]=turtle.turnRight,[false]=turtle.turnLeft}
 for y=1,depth do
 	for z=1,width do
-		for x=1,width-2 do
+		for x=1,width-1 do
 			while turtle.detect() do
 				turtle.dig()
 				os.sleep(0.25)
