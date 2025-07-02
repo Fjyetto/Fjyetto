@@ -4,11 +4,12 @@
 </picture>
 
 ## hi
-im a developer i make vidyagames :3 also am in uni
+im a developer i make vidyagames :3 also am in university
 ## Current project:
-Writing a raymarcher using shaders in love2D
+Big Gunchus Roleplay
 ## Everything Else
 - My Garry's Mod map
+- Minecraft Server implemented in Golang
 - Big Gunchus Website
 - personal website
 - 3JS "office" engine
